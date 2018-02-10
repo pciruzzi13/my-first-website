@@ -118,7 +118,15 @@ nav a:hover{
   border: 2px solid blue;
 }
 
+h1,
+h2{
+  font-family: 'Libre Baskerville', serif;
+}
 
+h5,
+h4{
+  font-family: 'Open Sans', sans-serif;
+}
 
 
 
@@ -147,7 +155,6 @@ nav a:hover{
   h1{
     margin-bottom: 40px;
   }
-
 
 
 @media print,
